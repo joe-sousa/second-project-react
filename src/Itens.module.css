@@ -1,0 +1,9 @@
+.list{
+    display:list-item;
+    list-style: none;
+}
+
+.item{
+    margin-right: 1em;
+    color:blue;
+}
